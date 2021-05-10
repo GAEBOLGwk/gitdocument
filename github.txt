@@ -1,4 +1,35 @@
- failed to push some refs to 'https://github.com/GAEBOLGwk/JsProject.git'
+
+git remote add text https://github.com/GAEBOLGwk/show.git
+
+NotSupp7ortedException encountered.
+
+and the repository exists.
+
+Updates were rejected because the remote contains work that you do
+not hav               n, e lo                   cally. This is usually caused by another repository pushing
+to the same ref. You may want to first integrate the remote changes
+ (e.g., 'git pull ...') before pushing again.
+ See the 'Note about fast-forwards' in 'git push --help' for details.
+
+src refspec main does not match any
+ could not resolve HEAD
+git remote add origin https://github.com/GAEBOLGwk/show.git
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)git restore --staged <file>
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   "\344\272\224\345\255\220\346\243\213" (modified content)
+        modified:   "\350\264\252\345\220\203\350\233\207" (new commits, modified content, untracked content)
+Updated 0 paths from the index
+
+not removing 'text' recursively without -r
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage
+
+
+failed to push some refs to 'https://github.com/GAEBOLGwk/JsProject.git'
 hint: Updates were rejected because the remote contains work that you do
 not have locally. This is usually caused by another repository pushing
  to the same ref. You may want to first integrate the remote changes
@@ -9,10 +40,10 @@ D:\vscode代码\CSS\single-html\CSS>git push origin master
 fatal: NotSupportedException encountered.
    ServicePointManager 。
 Everything up-to-date
-点
 
+No such remote:
  src refspec main does not match any
-git remote add origin https://github.com/GAEBOLGwk/JsProject.git
+c x v
 
 git checkout -B main 切换分支
 先把两部分内容合并以下，有两种方式
